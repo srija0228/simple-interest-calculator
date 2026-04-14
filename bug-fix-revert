@@ -1,0 +1,6 @@
+curl -X GET https://api.github.com/repos/your-username/simple-interest-calculator/pulls
+
+{
+  "state": "open",
+  "head": "your-username:bug-fix-typo"
+}
