@@ -1,0 +1,6 @@
+curl -X GET https://api.github.com/repos/your-username/simple-interest-calculator
+
+{
+  "full_name": "your-username/simple-interest-calculator",
+  "fork": true
+}
